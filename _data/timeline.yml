@@ -22,16 +22,15 @@
   date: Jun 2022 - Present
   subtitle: Pre-medical Intern
   tags:
-    - tag: Research
+    - tag: Independent Research
     - tag: Shadowing
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: William & Mary Social Cognition Lab
+  title-url: https://wmpeople.wm.edu/site/page/cldickter/williammarysocialcognitionlab
+  date: May 2021 - Present
+  subtitle: Researcher
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: Independent Research
+    - tag: Manuscript Authorship
   timeline-side: left
