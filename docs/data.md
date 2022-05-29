@@ -32,9 +32,9 @@ Example of a framework:
   weight: 3
 ```
 
-## skills-languages.yml
+## skills-software.yml
 
-* `name`: Name of your programming language
+* `name`: Softwares
 * `weight`: Describes how good you know the language - values from 1 up to 5
 
 Example of a language:
@@ -44,7 +44,7 @@ Example of a language:
   weight: 3
 ```
 
-## skills-tools.yml
+## skills-coursework.yml
 
 * `name`: Name of your dev tool
 * `weight`: Describes how good you know the tool - values from 1 up to 5
