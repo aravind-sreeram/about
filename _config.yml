@@ -12,9 +12,9 @@ baseurl: ""
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
 username: Aravind Sreeram
-# typing_text: This will be typed before 'scroll down for more'.
+# typing_text: This will be typed before 'Welcome to my digital CV!'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Neuroscience & Psychology
+typing_text: Neuroscience & Psychology Student.
 # email: Your E-Mail address for the email button.
 email: asreeram@email.wm.edu
 # For every social button you want to display, set your username or userid
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I am a rising senior at William & Mary.
+about_me_description: Hi! I'm Aravind, a rising senior at William & Mary studying neuroscience and psychology. This site serves to illustrate some of the projects I've worked on during my college career on my path to becoming a physician.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -53,7 +53,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: https://drive.google.com/file/d/1Lu3W45Yuby4p_2XQ3IqLo-gdcUvSTUhH/view?usp=sharing
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -69,7 +69,7 @@ projects_title: Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: true
+show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
 
@@ -81,7 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: Please don't hesitate to reach out to asreeram@email.wm.edu with questions, ideas, or opportunities.
 
 # GITHUB-METADATA
 # Set this to your forked repository
